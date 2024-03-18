@@ -1,0 +1,193 @@
+﻿  Anotation.cpp
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(33,19): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Anotation.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(52,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Anotation.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(55,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Anotation.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(92,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Anotation.cpp')
+  
+  Battle.cpp
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Player.h(10,18): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(18,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(57,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(61,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(66,24): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(182,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(184,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(190,58): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(262,59): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(267,58): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(273,57): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(279,62): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(289,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Battle.cpp')
+  
+  Location.cpp
+  main.cpp
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(33,19): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(52,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(55,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(92,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(17,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(26,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Player.h(10,18): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(18,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(57,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(61,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(66,24): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(182,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(184,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(190,58): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(262,59): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(267,58): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(273,57): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(279,62): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(289,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Game.h(167,58): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Game.h(176,60): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Game.cpp
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(33,19): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(52,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(55,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Anotation.h(92,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(17,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(26,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Player.h(10,18): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(18,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(57,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(61,12): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(66,24): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(182,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(184,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(190,58): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(262,59): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(267,58): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(273,57): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(279,62): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Battle.h(289,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Game.h(167,58): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Game.h(176,60): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+  Map.cpp
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(17,61): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(26,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+  Generating Code...
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Map.h(33): warning C4715: 'Map::getStartPos': not all control paths return a value
+C:\Users\mrdas\source\repos\Ducks and Dragons\Ducks and Dragons\Game.h(170): warning C4172: returning address of local variable or temporary
+  Ducks and Dragons.vcxproj -> C:\Users\mrdas\source\repos\Ducks and Dragons\x64\Debug\Ducks and Dragons.exe

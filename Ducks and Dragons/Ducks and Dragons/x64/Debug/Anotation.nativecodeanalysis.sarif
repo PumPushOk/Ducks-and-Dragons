@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/anotation.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "f033c5e0e78be4d4f32c1fa29ace26594dc9ef90ff94228803244963a6f999e1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/anotation.h"
+          },
+          "hashes": {
+            "sha-256": "a7eb6b102b674a0947015acaca6da206ddae936604e1665cc097aef63c03995c"
+          }
+        }
+      ]
+    }
+  ]
+}

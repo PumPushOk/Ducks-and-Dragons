@@ -1,0 +1,163 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: '_getch'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/mrdas/source/repos/.Ducks and Dragons/Ducks and Dragons/Game.h"
+                },
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 4,
+                  "endLine": 38,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Game::run",
+                  "decoratedName": "?run@Game@@QEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/mrdas/source/repos/.Ducks and Dragons/Ducks and Dragons/Game.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "6f38e0d096aa5f7e17be2583bf0c790757ad425b768566733b8387b015f0bf77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "caaccf7e94717df216d93592a5f891be5cd16aa7fdcc75e9049af024032eebff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/anotation.h"
+          },
+          "hashes": {
+            "sha-256": "a7eb6b102b674a0947015acaca6da206ddae936604e1665cc097aef63c03995c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/map.h"
+          },
+          "hashes": {
+            "sha-256": "e10bdd331f784048970c992fcf670dd2bd375ed2f7bdd44fc65d2d16ac088e56"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/battle.h"
+          },
+          "hashes": {
+            "sha-256": "25f756dabf28de99a576a29a76eefea1b84500d9154563286c89fd4c11441e22"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/location.h"
+          },
+          "hashes": {
+            "sha-256": "0c948b4a9cc5fd2e3e56bb31dbe9ba3ca2ff925b2a326d253b539facb8f80448"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/enemy.h"
+          },
+          "hashes": {
+            "sha-256": "ed522a823f1a62d07e171d29cb5c40e521e414be2fb975592e6d978d85f16b6e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/creature.h"
+          },
+          "hashes": {
+            "sha-256": "1f20555ac595c75b09bf427fccd54aeff47a3fdf256e4cf1d479df093fb8d5c6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/player.h"
+          },
+          "hashes": {
+            "sha-256": "8dbec6c5755aac4510ca4e5647063255c8c70a0fa822a441a3858c91b2c8a3c7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/duck.h"
+          },
+          "hashes": {
+            "sha-256": "aa361f16045a0e11e7ce27367aeb6ddef0a45b3461691bed0150c283697fa512"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/dragon.h"
+          },
+          "hashes": {
+            "sha-256": "1ccbd38b6eb6221974617cbc1c4b660d29d57f3750e2b5af7f1f967fb4dc864e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/shrek.h"
+          },
+          "hashes": {
+            "sha-256": "f8a14bc97c690cb0f03f794680dcd6d1c9b2018a6129ce89870b34c219c85a4c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/boss.h"
+          },
+          "hashes": {
+            "sha-256": "c9bbf02b8d6d29727aef7297f72a143291d63770e7698edd5f2037fe1144488c"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Creatures">
+      <UniqueIdentifier>{308fdfc8-0123-4b7a-b516-c73c772533cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{3cf47af0-5277-438c-9b4b-f98e6b404023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{464ebd03-7c5b-46af-86af-e4954521cce5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{05469a56-39bf-4235-922a-b0135ad10210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Locations">
+      <UniqueIdentifier>{1c3ed130-2de4-4745-ac54-87a8907085f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Battle">
+      <UniqueIdentifier>{cc9f4f45-9115-42b6-b9a5-8f88aa11a077}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Location.cpp">
+      <Filter>Locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Anotation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Location.h">
+      <Filter>Locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Duck.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="Creature.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Dragon.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Shrek.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="Anotation.h" />
+  </ItemGroup>
+</Project>

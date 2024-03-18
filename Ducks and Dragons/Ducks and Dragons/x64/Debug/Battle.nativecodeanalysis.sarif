@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/battle.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8e9ed20d7a61acd3ea68e6e45dcc6f5b7091f3c16118c0ffed4ddf58399d9617"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/battle.h"
+          },
+          "hashes": {
+            "sha-256": "25f756dabf28de99a576a29a76eefea1b84500d9154563286c89fd4c11441e22"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/location.h"
+          },
+          "hashes": {
+            "sha-256": "0c948b4a9cc5fd2e3e56bb31dbe9ba3ca2ff925b2a326d253b539facb8f80448"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/enemy.h"
+          },
+          "hashes": {
+            "sha-256": "ed522a823f1a62d07e171d29cb5c40e521e414be2fb975592e6d978d85f16b6e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/creature.h"
+          },
+          "hashes": {
+            "sha-256": "1f20555ac595c75b09bf427fccd54aeff47a3fdf256e4cf1d479df093fb8d5c6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/mrdas/source/repos/.ducks and dragons/ducks and dragons/player.h"
+          },
+          "hashes": {
+            "sha-256": "8dbec6c5755aac4510ca4e5647063255c8c70a0fa822a441a3858c91b2c8a3c7"
+          }
+        }
+      ]
+    }
+  ]
+}
